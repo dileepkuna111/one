@@ -573,7 +573,7 @@
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
                 <h1>New Summer Collection  Premium Picks</h1>
-                <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
+                <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items. get discounts on the purchase of $99</p>
                 <p>Shop more and benifit more</p>
                 <p>Coupon code GET299</p>
                 <p>Hurry up!</p>
